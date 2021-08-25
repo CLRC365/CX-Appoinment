@@ -32,7 +32,8 @@ Gamification in healthcare will help promote healthy behaviors and help patients
 
 # Intro
 
-![Animation_CesarCX](https://user-images.githubusercontent.com/89507161/130875911-b0dc8749-06ef-438a-84de-690970e8db5b.gif)
+![CesarRomeroDialogflowCX](https://user-images.githubusercontent.com/89507161/130876561-afeb1d21-69f6-4090-8077-8442a8f51138.gif)
+
 
 # Disclaimer:
 
