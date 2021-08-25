@@ -12,7 +12,7 @@ You need to enable the Sentiment Analysis option in Dialogflow CX
 # Features
 * Pages
 * Route Groups
-* System entities
+* System and custom entities
 * Custom entities
 * Condicional route
 * Condicional response
